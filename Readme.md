@@ -79,4 +79,4 @@ All datasets and scripts are available on Zenodo:
 
 ---
 
- Maintained by Quentin L.S. Andres, PhD. Project under Kasetsart University, THAILAND, Animal Genomics and Bioresources Research Unit.
+ Maintained by Quentin L.S. Andres, PhD. Project under Kasetsart University, THAILAND, Animal Genomics and Bioresources Research Unit. [AGB Research Unit](https://www.agb-ku.com/)
