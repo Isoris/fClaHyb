@@ -40,9 +40,9 @@ This resource is especially relevant for aquaculture in **Thailand** and the **M
 
 | Sample | Accession | Description |
 |--------|-----------|-------------|
-| 🧬 Hybrid F1 | [SAMN43395848](https://www.ncbi.nlm.nih.gov/biosample/SAMN43395848) | F1 hybrid individual |
-| 👩‍🔬 Female *C. macrocephalus* | [SAMN42503781](https://www.ncbi.nlm.nih.gov/biosample/SAMN42503781) | Parental sample |
-| 👨‍🔬 Male *C. gariepinus* | [SAMN43548335](https://www.ncbi.nlm.nih.gov/biosample/SAMN43548335) | Parental sample |
+| 🧬 Hybrid F1 | [SAMN43395848](https://www.ncbi.nlm.nih.gov/biosample/SAMN43395848) | F1 hybrid individual (same but combined)|
+| 👩‍🔬 Female *C. macrocephalus* | [SAMN42503781](https://www.ncbi.nlm.nih.gov/biosample/SAMN42503781) | Haplotype 1 (C. macrocephalus) (Bio)sample |
+| 👨‍🔬 Male *C. gariepinus* | [SAMN43548335](https://www.ncbi.nlm.nih.gov/biosample/SAMN43548335) | Haplotype 2 (C. gariepinus) (Bio)sample |
 | 🧬 Additional *C. gariepinus* | [SAMN46907808](https://www.ncbi.nlm.nih.gov/biosample/SAMN46907808), [SAMN46730924](https://www.ncbi.nlm.nih.gov/biosample/SAMN46730924) | Additional references |
 
 ---
